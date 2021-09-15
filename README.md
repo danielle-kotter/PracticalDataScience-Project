@@ -1,1 +1,2 @@
-# PracticalDataScience-Project
+# Practical Data Science - Final Project
+
